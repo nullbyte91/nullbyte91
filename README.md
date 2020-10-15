@@ -1,4 +1,8 @@
-### Hi there 👋
+I'm an Embedded Computer Vision Engineer who loves building Artificial Intelligence (AI) Solutions on Edge Devices. I have Experienced in device driver development, Computer Vision, deep learning, and algorithm optimization techniques like reducing the number of model operations, reducing the size of the model by using Quantization techniques, Pruning, Knowledge Distillation.
+
+Skills: C, C++, Python, OpenCV, CNN, TensorFlow, Caffe, SOC's[Nvidia, TI, Qualcomm, ARM, Xilinx], OpenVino, ARMNN, Vision Works, TensorRT, ROS.
+
+I love to stay curious to explore and learn new things. There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I'm very grateful. 
 
 <!--
 **nullbyte91/nullbyte91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
