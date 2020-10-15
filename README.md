@@ -1,6 +1,6 @@
 I'm an <b>Embedded Computer Vision Engineer</b> who loves building Artificial Intelligence (AI) Solutions on Edge Devices. I have Experienced in <b>device driver development</b>, <b>Computer Vision</b>, <b>Image processing</b>, <b>deep learning</b>, and <b>algorithm optimization</b>.
 
-<b>Skills:</b> C, C++, Python, OpenCV, CNN, TensorFlow, Caffe, SOC's[Nvidia, TI, Qualcomm, ARM, Xilinx], OpenVino, ARMNN, Vision Works, TensorRT, ROS.
+<b>Skills:</b> C, C++, Python, OpenCV, CNN, TensorFlow, Caffe, SOC's[Nvidia, TI, Qualcomm, ARM, Xilinx], OpenVino, ARMNN, Vision Works, TensorRT, ROS1/2.
 
 I love to stay curious to explore and learn new things. <b>*There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I'm very grateful.*</b>
 
